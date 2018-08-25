@@ -1,0 +1,9 @@
+[package]
+name = "sdl_rust"
+version = "0.1.0"
+authors = ["MrScriptX <dan.liebault@viacesi.fr>"]
+build = "build.rs"
+
+[dependencies]
+sdl2 = "0.31.0"
+gl = "0.10.0"
